@@ -18,4 +18,4 @@ em dados bancários e de estimativa de renda por localização.
 
 ## ❔
 [Como realmente funciona?](https://www.youtube.com/watch?v=o1fsfpvQGyY)
-<br/>[Como é usado?](https://www.youtube.com/watch?v=9XwdCL99GZM&feature=youtu.be)
+<br/>[Como é usado?](https://www.youtube.com/watch?v=CVWPfqzTFtk)
