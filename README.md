@@ -1,4 +1,7 @@
 # SuitAPI
+<h1 align="center">
+  <img width=500px src="https://github.com/arlindojos/SuitAPI/blob/master/suit-api/src/assets/images/SuitAPI-equipe.png" alt="Logo da Proffy" />
+</h1>
 
 Suit API, um sistema que determina o perfil do investidor com base em uma
 <br/>análise de dados que são obtidos através de 2 APIs da plataforma GR1D:
