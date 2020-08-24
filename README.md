@@ -15,3 +15,7 @@ um score de 0 a 100, sendo 0 mais conservador e 100 mais agressivo.
 <br/>O score é enviado para a corretora e a partir daí ela tem o perfil do investidor baseado
 em dados bancários e de estimativa de renda por localização.
 <br/>Ela ainda pode aplicar seu formulário de perguntas e respostas, mas agora ela também tem uma análise baseada em dados e não apenas em perguntas.
+
+## ❔
+[Como realmente funciona?](https://www.youtube.com/watch?v=o1fsfpvQGyY)
+<br/>[Como é usado?](https://www.youtube.com/watch?v=9XwdCL99GZM&feature=youtu.be)
