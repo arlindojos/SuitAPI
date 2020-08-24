@@ -6,7 +6,6 @@
 Suit API, um sistema que determina o perfil do investidor com base em uma
 <br/>análise de dados que são obtidos através de 2 APIs da plataforma GR1D:
 <br/>A API de consulta de dados de correntistas via Open Banking da TecBan.
-<br/>A API da google para obter localização do investidor,
 <br/>E a API de GeoMarketing, de estimativa de renda domiciliar: Renda Provável que utiliza projeções de renda feitas pela Geofusion.
 <br/>Obtemos uma estimativa de renda domiciliar baseado na localização do investidor, 
 <br/>Obtemos também todas as transações e pagamentos do cliente e salvamos em um banco de dados.
